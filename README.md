@@ -1,10 +1,10 @@
 # LIFEKonsolideretRegnskab
-<h4>Python Pandas projekt</h4>
+<h3>Python Pandas - Excell projekt</h3>
 
-<h4>Hovedopgave: Lav konsolidering af projektregnskabet for et LIFE-Projekt</h4>
+<h3>Hovedopgave: Lav konsolidering af projektregnskabet for et LIFE-Projekt</h3>
 
-<h4>Der skal laves konsolidering på både omkostningskategori- og aktionsniveau</h4>
-<h5>Life-NatureMan, Life-Openwoods og Life-4Forest</h5>
+<h3>Der skal laves konsolidering på både omkostningskategori- og aktionsniveau</h3>
+<h4>Life-NatureMan, Life-Openwoods og Life-4Forest</h4>
 
 <ol>
     <li>Afsnit 1</li>
